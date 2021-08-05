@@ -1,9 +1,7 @@
 ## Olá! Sou o Pedro 
- •💻 -Desenvolvedor Back-end;
-     -Back-end Developer.
-     
- •📚 -Atualmente estudando Python;
-     -I'm studying about the"Python language";;
+ •💻 Back-end Developer.
+
+ •📚 I'm studying about the"Python language".
 
  <div>
   <a href="https://github.com/pedrosilv1514">
