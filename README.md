@@ -1,4 +1,9 @@
 ## Olá! Sou o Pedro 
+ -💻 Desenvolvedor Back-end;
+     Back-end Developer.
+ -📚 Atualmente estudando Python;
+     I'm studying about the"Python language";;
+
  <div>
   <a href="https://github.com/pedrosilv1514">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosilv1514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
