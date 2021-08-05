@@ -7,6 +7,7 @@
   <a href="https://github.com/pedrosilv1514">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosilv1514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilv1514&layout=compact&langs_count=7&theme=dark"/>
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,5 +30,6 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-silva-de-sousa-ab6606219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/pedrosilv1514/pedrosilv1514/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://komarev.com/ghpvc/?username=pedrosilv1514&color=green" alt="pedrosilv1514" /> 
  
  </div>
