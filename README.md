@@ -30,6 +30,5 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-silva-de-sousa-ab6606219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/pedrosilv1514/pedrosilv1514/blob/output/github-contribution-grid-snake.svg)
-  <img src="https://komarev.com/ghpvc/?username=pedrosilv1514&color=green" alt="pedrosilv1514" /> 
- 
+
  </div>
