@@ -1,5 +1,5 @@
 ## Olá! Sou o Pedro 
- •💻 Back-end Developer.
+ •💻 Computer Science - UnB
 
  •📚 I'm studying about the"Python language".
 
