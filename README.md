@@ -1,32 +1,75 @@
-## Olá! Sou o Pedro 
- •💻 Computer Science - UnB
-
- •📚 I'm studying about the"Python language".
-
- <div>
-  <a href="https://github.com/pedrosilv1514">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosilv1514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilv1514&layout=compact&langs_count=7&theme=dark"/>
- 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="Gif com saudações" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gif animado" src="https://user-images.githubusercontent.com/78083973/128382947-59887296-e1a8-41c4-8300-693f06be27b5.gif">
 
+<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<p align="center"><i>Desenvolvedor Full-Stack | Bacharel em Ciência da Computação
 
+</i></p>
+
+---
+
+## 🌟 Sobre Mim
+
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+
+Eu sou o **Pedro**, desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente curso **Ciência da Computação** pela Universidade de Brasília (UnB). Aplicando meus conhecimentos em projetos Full Stack e Inteligência Artificial que unem teoria, prática e propósito.
+
+Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
+
+<div align="center">
+  <a href="mailto:pedrosilv1512@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a> 
+  <a href="https://www.linkedin.com/in/pedro-henrique-silva-sousa/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilv1514&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosilv1514&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="C-sharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </div>
   
-  ##
  
-<div> 
-   <a href="https://www.instagram.com/pedr0_ohno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedrosilv1514@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-silva-de-sousa-ab6606219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/pedrosilv1514/pedrosilv1514/blob/output/github-contribution-grid-snake.svg)
+</div>
 
- </div>
+
+
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrosilv1514/pedrosilv1514/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrosilv1514/pedrosilv1514/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrosilv1514/pedrosilv1514/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+<!---
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
+
+> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🧡  
+> — **Naruto Uzumaki**
+<br>
+
+---
+-->
+<div align="center">
+  <img align="middle" src="https://github.com/user-attachments/assets/2b12abaf-e288-4f33-9c7c-5cb8f77be9e3" width="350" alt="Imagem em desenho" />
+</div>
+<br>
+<p align="center"><i>Obrigado pela visita! ❤️</i></p>
+
+
