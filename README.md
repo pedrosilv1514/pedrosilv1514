@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="Gif com saudações" />
 </div>
 
-<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<h1 align="center"> 👨‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedor Full-Stack | Bacharel em Ciência da Computação
 
 </i></p>
