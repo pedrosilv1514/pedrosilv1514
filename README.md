@@ -1,53 +1,66 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="Gif com saudações" />
-</div>
+<h1 align="left">Hi, I'm Pedro Henrique</h1>
 
-<h1 align="center"> 👨‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
-<p align="center"><i>Desenvolvedor Full-Stack | Bacharel em Ciência da Computação
+###
 
-</i></p>
+<br clear="both">
 
----
+<img align="right" height="200" src="https://i.pinimg.com/originals/08/9f/0c/089f0c04efafb0c919fbdab7d52891bb.gif"  />
 
-## 🌟 Sobre Mim
+###
 
-<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+<p align="left">Computer Science Undergraduate at the University of Brasília.<br>Exploring the fields of Data Science and AI.</p>
 
-Eu sou o **Pedro**, desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente curso **Ciência da Computação** pela Universidade de Brasília (UnB). Aplicando meus conhecimentos em projetos Full Stack e Inteligência Artificial que unem teoria, prática e propósito.
 
-Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
+###
 
-<div align="center">
-  <a href="mailto:pedrosilv1512@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a> 
-  <a href="https://www.linkedin.com/in/pedro-henrique-silva-sousa/">
+<div align="left">
+    <a href="https://www.linkedin.com/in/pedro-henrique-silva-sousa/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilv1514&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosilv1514&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-  <div style="display: inline_block"><br>
-    <img  align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-    <img align="center" alt="AwS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-    <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-  </div>
-  
- 
+  &nbsp; <a href="https://codeforces.com/profile/_Naits_" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
+    </a>
 </div>
 
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="37" alt="go logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="37" alt="linux logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="37" alt="docker logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="37" alt="nginx logo"  />
+</div>
 
+<br clear="both">
 <br>
+
+<h3 align="left">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif" height="30" width="30"/>
+  A little more about me...
+</h3>
+
+```javascript
+const pedro = {
+  pronouns: "he/him", 
+  code: [Python, Javascript, Golang, Rust],
+  tools: [Docker, Git, Linux, Poetry, Nginx],
+  interests: [DataScience, ArtificialIntelligence, Robotics],
+  education: {
+    degree: "Computer Science Undergraduate",
+    university: "University of Brasília"
+  },
+  currentFocus: "Data Science and Artificial Intelligence",
+}
+````
+###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrosilv1514/pedrosilv1514/output/pacman-contribution-graph-dark.svg">
@@ -56,21 +69,3 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 </picture>
 
 ###
----
-
-<!---
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
-
-> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🧡  
-> — **Naruto Uzumaki**
-<br>
-
----
--->
-<div align="center">
-  <img align="middle" src="https://github.com/user-attachments/assets/2b12abaf-e288-4f33-9c7c-5cb8f77be9e3" width="350" alt="Imagem em desenho" />
-</div>
-<br>
-<p align="center"><i>Obrigado pela visita! ❤️</i></p>
-
-
