@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Computer Science Undergraduate at the University of Brasília.<br>Exploring the fields of Data Science and AI.</p>
+<p align="left">Computer Science Undergraduate at the University of Brasília.<br>Exploring the fields of Data Engineer and AI.</p>
 
 
 ###
