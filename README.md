@@ -47,14 +47,14 @@
 ```javascript
 const pedro = {
   pronouns: "he/him", 
-  code: [Python, Javascript, Golang, Rust],
+  code: [Python, Java, Golang, Rust],
   tools: [Docker, Git, Linux, Poetry, Nginx],
   interests: [DataScience, ArtificialIntelligence, Robotics],
   education: {
     degree: "Computer Science Undergraduate",
     university: "University of Brasília"
   },
-  currentFocus: "Data Science and Artificial Intelligence",
+  currentFocus: "Data Engineer and Artificial Intelligence",
 }
 ````
 ###
