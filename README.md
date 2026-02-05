@@ -49,7 +49,7 @@ const pedro = {
   pronouns: "he/him", 
   code: [Python, Java, Golang, Rust],
   tools: [Docker, Git, Linux, Poetry, Nginx],
-  interests: [DataScience, ArtificialIntelligence, Robotics],
+  interests: [DataEngineer, ArtificialIntelligence, Robotics],
   education: {
     degree: "Computer Science Undergraduate",
     university: "University of Brasília"
